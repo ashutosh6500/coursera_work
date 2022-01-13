@@ -1,0 +1,1 @@
+document.getElementById("one").innerHTML="Welcome to another project";
